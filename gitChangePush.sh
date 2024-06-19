@@ -15,6 +15,6 @@ if [[ ! -z "$(git diff-index --name-only HEAD)" ]]; then
 	git remote update
 	# if ! git diff --quiet origin/master; then
 		# echo "the branch is different!"
-		git push
+    git push
 	# fi
 fi
