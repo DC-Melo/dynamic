@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 # logFile=$HOME/.cache/log/natapp.log
 # cat $HOME/.config/.natapp.log | grep -oP 'server.natappfree.cc:\d+' | tail -1 >$HOME/.config/natapp.ip
 # # echo check is commited
